@@ -57,7 +57,7 @@
         <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=black">
         <img alt="Static Badge" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos">
         <br>
-        <h2>🪄Version control and collaboration tools🪄</h2>
+        <h2>🦾Version control and collaboration tools</h2>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black">
