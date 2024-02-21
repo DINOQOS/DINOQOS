@@ -11,11 +11,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏️ languages ✏️ </h2> <br>
     <img src="https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black">
     <img src="https://img.shields.io/badge/python-f5f5f5?style=for-the-badge&logo=python&logoColor=3776AB">
-    <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=3776AB"> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">   <br>
+    <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=3776AB">     
     <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Matlab-0076a8?style=for-the-badge&logo=Matlab&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -41,7 +41,6 @@
          <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
          <img src="https://img.shields.io/badge/amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=000000"> <br>
          <img src="https://img.shields.io/badge/amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=000000">
-         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
          <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
          <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <br>
          <img src="https://img.shields.io/badge/pycharm-FFFC00?style=for-the-badge&logo=pycharm&logoColor=black">
