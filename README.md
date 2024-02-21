@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JeongWoo</h1>
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=Back-end%20/%20AL%20/%20ML&animation=&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=Back-end%20/%20AI%20/%20ML&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> DINOQOS </h2>  
